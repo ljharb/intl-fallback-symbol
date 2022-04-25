@@ -5,17 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [v1.0.1](https://github.com/inspect-js/is-registered-symbol/compare/v1.0.0...v1.0.1) - 2022-04-24
+## v1.0.0 - 2022-04-25
 
 ### Commits
 
-- [readme] fix version badge [`452a25e`](https://github.com/inspect-js/is-registered-symbol/commit/452a25eae9a8e2cff94ffa1fd7c18989a7576ed8)
-
-## v1.0.0 - 2022-04-24
-
-### Commits
-
-- Initial implementation, tests, readme [`6682d64`](https://github.com/inspect-js/is-registered-symbol/commit/6682d6425fb873a7fde56cedcee303053b0096af)
-- Initial commit [`7f93a3a`](https://github.com/inspect-js/is-registered-symbol/commit/7f93a3ab1c67c1b3599ae3182e5856e9d8af3bc4)
-- npm init [`96d9a2e`](https://github.com/inspect-js/is-registered-symbol/commit/96d9a2ec0a19f5d6cdd1218955b94ec9622f8d42)
-- Only apps should have lockfiles [`d1285f9`](https://github.com/inspect-js/is-registered-symbol/commit/d1285f92c87a3abc808dfb4d5c98c640abee2ee8)
+- Initial implementation, tests, readme [`d510abc`](https://github.com/ljharb/intl-fallback-symbol/commit/d510abcece46cb11de2dbe4b499151788cbb1ea8)
+- Initial commit [`04f0c01`](https://github.com/ljharb/intl-fallback-symbol/commit/04f0c01ba32c4a8c3f0141e0a725d336ee9f835c)
+- npm init [`33f4b97`](https://github.com/ljharb/intl-fallback-symbol/commit/33f4b9738edbfc7f52f2a86cebcce2160b85f7af)
+- Only apps should have lockfiles [`af6188d`](https://github.com/ljharb/intl-fallback-symbol/commit/af6188d7eb8558088e2c33e10426b47bc12eec48)
