@@ -1,0 +1,32 @@
+{
+	"name": "intl-fallback-symbol",
+	"version": "0.0.0",
+	"description": "ECMA-402 Intl spec's internal `FallbackSymbol`",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/intl-fallback-symbol.git"
+	},
+	"keywords": [
+		"javascript",
+		"ecmascript",
+		"intl",
+		"fallback",
+		"fallback-symbol",
+		"FallbackSymbol",
+		"symbol"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/intl-fallback-symbol/issues"
+	},
+	"homepage": "https://github.com/ljharb/intl-fallback-symbol#readme"
+}
