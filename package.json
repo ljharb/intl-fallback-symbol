@@ -44,8 +44,8 @@
 	},
 	"homepage": "https://github.com/ljharb/intl-fallback-symbol#readme",
 	"dependencies": {
-		"array.prototype.find": "^2.2.0",
-		"call-bind": "^1.0.2"
+		"array.prototype.find": "^2.2.3",
+		"call-bind": "^1.0.7"
 	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^21.1.1",
