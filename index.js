@@ -6,6 +6,7 @@ var find = require('array.prototype.find');
 var gOPS = callBound('Object.getOwnPropertySymbols', true);
 var symbolToString = callBound('Symbol.prototype.toString', true);
 
+/** @type {import('.')} */
 module.exports = gOPS && symbolToString && typeof Intl !== 'undefined' ? find(
 	gOPS(Intl.DateTimeFormat.call({ __proto__: Intl.DateTimeFormat.prototype })),
 	function (x) {
