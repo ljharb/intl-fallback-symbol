@@ -47,14 +47,13 @@
 	"homepage": "https://github.com/ljharb/intl-fallback-symbol#readme",
 	"dependencies": {
 		"array.prototype.find": "^2.2.3",
-		"call-bind": "^1.0.8"
+		"call-bound": "^1.0.3"
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.17.1",
 		"@ljharb/eslint-config": "^21.1.1",
 		"@ljharb/tsconfig": "^0.2.2",
 		"@types/array.prototype.find": "^2.2.0",
-		"@types/call-bind": "^1.0.5",
 		"@types/get-symbol-description": "^1.0.0",
 		"@types/node": "^0.12.25",
 		"@types/tape": "^5.7.0",
