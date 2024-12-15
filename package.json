@@ -47,7 +47,7 @@
 	"homepage": "https://github.com/ljharb/intl-fallback-symbol#readme",
 	"dependencies": {
 		"array.prototype.find": "^2.2.3",
-		"call-bind": "^1.0.7"
+		"call-bind": "^1.0.8"
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.17.1",
