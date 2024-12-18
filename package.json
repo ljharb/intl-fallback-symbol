@@ -1,6 +1,6 @@
 {
 	"name": "intl-fallback-symbol",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "ECMA-402 Intl spec's internal `FallbackSymbol`",
 	"main": "index.js",
 	"exports": {

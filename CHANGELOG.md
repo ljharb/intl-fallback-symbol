@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.1.1](https://github.com/ljharb/intl-fallback-symbol/compare/v1.1.0...v1.1.1) - 2024-12-18
+
+### Commits
+
+- [actions] split out node 10-20, and 20+ [`5f0a813`](https://github.com/ljharb/intl-fallback-symbol/commit/5f0a8130ebf0f6544e649f035676705a25f00154)
+- [Dev Deps] update `@arethetypeswrong/cli`, `@ljharb/tsconfig`, `@types/tape`, `auto-changelog`, `has-symbols`, `tape` [`139a406`](https://github.com/ljharb/intl-fallback-symbol/commit/139a40638da1c82e623d0ad20a2eb22824a3c5b1)
+- [Refactor] use `call-bound` directly [`d191f54`](https://github.com/ljharb/intl-fallback-symbol/commit/d191f54ab0d0229ff88b703f4451dc72d6d002cb)
+- [Dev Deps] update `@types/tape` [`1d3f606`](https://github.com/ljharb/intl-fallback-symbol/commit/1d3f6061100c6a4799dad2ca4268efb6899a3762)
+- [Deps] update `call-bind` [`e243755`](https://github.com/ljharb/intl-fallback-symbol/commit/e2437552826af1f316c2d819ec89548e0472c823)
+
 ## [v1.1.0](https://github.com/ljharb/intl-fallback-symbol/compare/v1.0.0...v1.1.0) - 2024-08-06
 
 ### Commits
